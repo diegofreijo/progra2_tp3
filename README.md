@@ -18,7 +18,7 @@
 
 ### Comentarios Adicionales
 
-Tengan en cuenta que en varios de estos ejercicios espero que apliquen los conceptos que vimos en clase como encapsulamiento y polimorfismo. Puede que igual se los de por correctos a los ejercicios donde podrían haberlo usado y no lo hicieron, pero me van a tener que justificar porque no usaron esa solución y se fueron por otro lado.
+Para los que usaron caminos diferentes a los que di en clase, como usar tags o el viejo input de Unity: pueden seguir usándolo. Pero les recomiendo que, si se animan, dejen esas herramientas. Son poco eficientes y antiguas. Deberían repasar como resolvimos lo mismo en clase y adaptar la lógica. Si no tienen tiempo, no pasa nada y continúen como vienen. 
 
 Pueden asumir cosas que no están aclaradas explícitamente. Si igualmente tienen dudas, pregunten.
 
